@@ -1,0 +1,9 @@
+{
+  "name": "tetris",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/tetris/src",
+  "tags": ["scope:browser"],
+  "// targets": "to see all targets run: nx show project tetris --web",
+  "targets": {}
+}

@@ -1,0 +1,10 @@
+{
+  "name": "tetris-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/tetris-e2e/src",
+  "projectType": "application",
+  "tags": [],
+  "implicitDependencies": ["tetris"],
+  "// targets": "to see all targets run: nx show project tetris-e2e --web",
+  "targets": {}
+}
